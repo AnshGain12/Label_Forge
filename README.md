@@ -1,4 +1,4 @@
-# LabelForge — MERN Data Annotation System
+# LabelForge
 
 A full-stack data annotation platform built with **MongoDB, Express, React, Node.js**.  
 Annotate images with bounding boxes, manage projects, define object classes, and export AI-ready training data.
